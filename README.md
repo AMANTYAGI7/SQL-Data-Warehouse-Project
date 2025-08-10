@@ -5,9 +5,8 @@
 This project delivers a multi-layered SQL Data Warehouse that takes data from raw ingestion all the way to business-ready insights.
 Following the Bronze → Silver → Gold architecture, each stage progressively cleans, structures, and enriches data to make it analytics-ready.
 
-🏗 Architecture Layers & Tasks
-
 1️⃣ Project Initialization
+
 📂 Create Git repository & folder structure.
 🗄 Create database & schemas.
 📝 Define detailed project tasks & naming conventions.
